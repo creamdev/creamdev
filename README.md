@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammet Ali</h1>
-- 🌱 I’m currently learning  NodeJS , Angular ,React , TailwindCSS ,TypeScript, Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
